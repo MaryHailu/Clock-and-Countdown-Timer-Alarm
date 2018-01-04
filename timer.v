@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Filename:    timer_mary89.v
-// Author:      Mary Hailu
+// Filename:    timer.v
+// Author:      Mary
 // Date:        11/29/2017
 // Version:     1
 // Description: Countdown and time-of-day main module .
