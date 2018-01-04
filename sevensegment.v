@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Filename:    seven_segment.v
-// Author:      Mary Hailu
+// Author:      Mary
 // Date:        11 Nov 2017
 // Version:     1
 // Description: A 16-bit synchronous FSM.
