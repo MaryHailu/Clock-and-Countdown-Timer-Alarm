@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
-// Filename:    tb_timer-mary89.v
-// Author:      Mary Hailu
+// Filename:    tb_timer.v
+// Author:      Mary
 // Date:        11/29/2017
 // Version:     1
 // Description: timer testbench.
